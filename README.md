@@ -220,9 +220,12 @@
 
 
 Teaching myself the ropes.
+
 Accomplishments: Set up PIN for iris scanner.
+
 Set up meeting at CGRL
 
+![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjxqcPKtPHYAhUHuFMKHcwVAL0QjRwIBw&url=https%3A%2F%2Fwww.nbcnews.com%2Fhealth%2Fhealth-news%2Fits-here-first-local-chikungunya-cases-florida-n158746&psig=AOvVaw2tuKxlnXR1XkGikVnuwjbX&ust=1516911155024388)
 
 
 ------
