@@ -2,7 +2,7 @@
 ### Author:   Dylan A. Tussey     
 ### University of Florida     
 
-## Projects title/descriptions
+## General notes of daily activity
 
 ## Date started:  01-24-2018
 ## Date end:  Ongoing
@@ -10,7 +10,7 @@
 
 # Table of contents (for 200 entries)    
 * [Page 1:   2018-01-24](#id-section1). First Entry 
-* [Page 2:   2016-6-16](#id-section2). Title 3
+* [Page 2:   2018-01-25](#id-section2). 
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
 * [Page 5:  ](#id-section5).
