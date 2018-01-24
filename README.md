@@ -9,7 +9,7 @@
 
 
 # Table of contents (for 200 entries)    
-* [Page 1:   2018-01-24](#id-section1). first Entry 
+* [Page 1:   2018-01-24](#id-section1). First Entry 
 * [Page 2:   2016-6-16](#id-section2). Title 3
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
@@ -225,7 +225,9 @@ Accomplishments: Set up PIN for iris scanner.
 
 Set up meeting at CGRL
 
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjxqcPKtPHYAhUHuFMKHcwVAL0QjRwIBw&url=https%3A%2F%2Fwww.nbcnews.com%2Fhealth%2Fhealth-news%2Fits-here-first-local-chikungunya-cases-florida-n158746&psig=AOvVaw2tuKxlnXR1XkGikVnuwjbX&ust=1516911155024388)
+![](https://media4.s-nbcnews.com/j/newscms/2015_17/546586/140703-mosquito-1722_3221cf3a799aa8b4d40a24a2869626ee.nbcnews-fp-1240-520.jpg)
+
+Sick image by: James Gathany / CDC via AP
 
 
 ------
