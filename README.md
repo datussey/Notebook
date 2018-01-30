@@ -244,9 +244,10 @@ Submitted Masters work article to EnvEnt. Hopefully for the last time!
 
 Finishing onboarding process for IAEA trip next week.
 
-New picture!!!- getty images
+New picture!!!
+![](https://media.gettyimages.com/photos/pupa-of-a-yellow-feverdenguezika-mosquito-below-the-water-surface-picture-id617715346)
 
-<a id='sytoMCn0R0h3w61-Vvgrqg' class='gie-single' href='http://www.gettyimages.com/detail/453973326' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'sytoMCn0R0h3w61-Vvgrqg',sig:'Y-CpQtYTHFaJoXNSzwlAOcOOCvrIzKVnCuCXrB3XSU8=',w:'594px',h:'395px',items:'453973326',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+
 
 ------
 
