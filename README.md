@@ -10,7 +10,7 @@
 
 # Table of contents (for 200 entries)    
 * [Page 1:   2018-01-24](#id-section1). First Entry 
-* [Page 2:   2018-01-25](#id-section2). 
+* [Page 2:   2018-01-30](#id-section2). End of January
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
 * [Page 5:  ](#id-section5).
@@ -234,7 +234,19 @@ Sick image by: James Gathany / CDC via AP
 
 <div id='id-section2'/>    
     
-### Page 2: 2016-06-16 title        
+### Page 2: 2016-06-16 End of January       
+
+Met with Anastasia MCD yesterday. Plans are to set up two MRR study sites on Anastasia Island. Release of 10,000 mosquitos/week for 8 weeks. Sample 48 h after release. Sample with CO2 baited BG2 traps. Study coincides with ongoing control methods, timing altered to accomodate. One site will be converted into a control trial. In April-May 64,000 mosquitoes/week (1000/acre) will be released into area. Monitor population levels with CO2 baited BG2 traps.
+
+Writing protocol for Anoxia pilot study to determine duration of anoxic conditions on pupae. Will post final idea once agreed upon.
+
+Submitted Masters work article to EnvEnt. Hopefully for the last time!
+
+Finishing onboarding process for IAEA trip next week.
+
+New picture!!!- getty images
+
+<a id='sytoMCn0R0h3w61-Vvgrqg' class='gie-single' href='http://www.gettyimages.com/detail/453973326' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'sytoMCn0R0h3w61-Vvgrqg',sig:'Y-CpQtYTHFaJoXNSzwlAOcOOCvrIzKVnCuCXrB3XSU8=',w:'594px',h:'395px',items:'453973326',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
 ------
 
